@@ -7,4 +7,5 @@ marching percussion stave templates for lilypond notation editor
   - snare drums
   - bass drums (up to 6)
   - cymbals
-- detailed w
+- standard dci/wgi notation
+- detailed usage documentation
